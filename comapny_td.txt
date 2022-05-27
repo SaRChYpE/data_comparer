@@ -1,0 +1,4 @@
+firma2,firma2@company.com,logo
+firma4,firma4@company.com,design
+firma8,firma8@company.com,brak strony
+firma7,firma7@company.com,design
